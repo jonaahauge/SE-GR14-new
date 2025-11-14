@@ -34,12 +34,12 @@
     &quot;assignee&quot;: &quot;P10NE3R&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/IceGqpple/SE-GR14.git",
-    "accountId": "8fdc7fb3-51be-4f30-8c78-b6b3a7aa200a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IceGqpple/SE-GR14.git&quot;,
+    &quot;accountId&quot;: &quot;8fdc7fb3-51be-4f30-8c78-b6b3a7aa200a&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/storage/src/main/java/runDB/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -54,29 +54,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.Main.executor": "Run",
-    "JUnit.AdapterTest.executor": "Run",
-    "JUnit.StoppeStedAdapterTest (1).executor": "Run",
-    "JUnit.StoppeStedAdapterTest.executor": "Run",
-    "JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder (1).executor": "Run",
-    "JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder.executor": "Run",
-    "JUnit.StoppeStedAdapterTest.testRuteAdapter.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop__backend",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/storage/src/main/java/runDB",
-    "onboarding.tips.debug.path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/test/src/main/java/org/musicas/Main.java",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AdapterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest.testRuteAdapter.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop__backend&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/storage/src/main/java/runDB&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/test/src/main/java/org/musicas/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\47940\Desktop\SE Software Engineering\Github\SE-GR14\storage\src\main\java\runDB" />
@@ -91,7 +91,7 @@
       <recent name="database" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StoppeStedAdapterTest (1)">
+  <component name="RunManager" selected="JUnit.AdapterTest">
     <configuration name="AdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -183,8 +183,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StoppeStedAdapterTest (1)" />
-        <item itemvalue="JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder (1)" />
+        <item itemvalue="JUnit.AdapterTest" />
         <item itemvalue="JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder" />
         <item itemvalue="JUnit.StoppeStedAdapterTest" />
         <item itemvalue="JUnit.StoppeStedAdapterTest.testRuteAdapter" />
