@@ -48,12 +48,12 @@ public class SqlStoppeStedAdapter implements StoppeStedPort {
 
 
         } catch(SQLException e){
-            database.quitDB();
+            database.avsluttDB();
             throw new DatabaseException("Problem with query" + e.getMessage());
         } catch (StoppeStedException e){
             throw new StoppeStedException("Problem with StoppeSted method" + e.getMessage());
         }
-        database.quitDB();
+        database.avsluttDB();
         return stoppeSteder;
     }
 

@@ -1,4 +1,4 @@
-package testAdapter;
+package integrasjonsTest;
 
 import adapter.SqlRuteAdapter;
 import adapter.SqlStoppeStedAdapter;
@@ -6,10 +6,8 @@ import domain.Rute;
 import org.junit.jupiter.api.*;
 
 
-import testDataBase.TestDatabase;
 import domain.StoppeSted;
 
-import java.sql.Array;
 import java.sql.Connection;
 import java.util.ArrayList;
 import java.util.List;

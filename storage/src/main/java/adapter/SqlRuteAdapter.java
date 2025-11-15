@@ -45,7 +45,7 @@ public class SqlRuteAdapter implements RuterPort {
 
             }
         } catch (SQLException e) {
-            database.quitDB();
+            database.avsluttDB();
             throw new DatabaseException("Problem with first query" + e.getMessage());
         }
 
@@ -80,7 +80,7 @@ public class SqlRuteAdapter implements RuterPort {
                 rute = new Rute(RuteNavnTilSporring, kjoretoy, StedsNavnTilRute);
                 ruter.add(rute);
             } catch (SQLException e) {
-                database.quitDB();
+                database.avsluttDB();
                 throw new DatabaseException("Problem with second query" + e.getMessage());
 
             }
@@ -88,7 +88,7 @@ public class SqlRuteAdapter implements RuterPort {
         }
 
 
-        database.quitDB();
+        database.avsluttDB();
         return ruter;
     }
 
