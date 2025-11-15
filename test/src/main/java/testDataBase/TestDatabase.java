@@ -52,6 +52,16 @@ public class TestDatabase {
         }
     }
 
+    public void emptyDummyData() throws Exception{
+        try (Statement statement = connection.createStatement()){
+            statement.execute("TRUNCATE TABLE stoppested");
+            statement.execute("TRUNCATE TABLE rute");
+            statement.execute("TRUNCATE TABLE rute_view");
+        }
+    }
+
+
+
     public void insertIntoStoppeSteder(String navn) throws Exception {
         String sql = "INSERT INTO stoppested (sted_navn)" + "VALUES (?)";
         try (PreparedStatement preparedStatement = connection.prepareStatement(sql)){

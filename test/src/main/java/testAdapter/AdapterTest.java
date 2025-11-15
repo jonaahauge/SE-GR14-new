@@ -29,13 +29,16 @@ public class AdapterTest {
 
     }
     @BeforeEach
-    public void prepareTest() throws Exception {
+    public void prepareTest() throws Exception  {
+        testDB.emptyDummyData();
         testDB.createDymmyData();
     }
 
     @AfterAll
     public static void demolish() throws Exception{
+        testDB.emptyDummyData();
         testDB.quitDB();
+
     }
 
 
