@@ -70,6 +70,7 @@ public class ReiseSok {
     public ArrayList<Reise> getReiser() {
         return reiser;
     }
+    public Integer getAntallReiser(){ return reiser.size();}
 
 
 }

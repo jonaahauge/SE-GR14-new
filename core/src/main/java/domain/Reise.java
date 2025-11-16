@@ -18,8 +18,8 @@ public class Reise {
     }
 
     public Reise(Rute rute, ArrayList<StoppeSted> stoppesteder, ArrayList<Overgang> overganger) {
-        ruter = new ArrayList<Rute>();
-        ruter.add(rute);
+        this.ruter = new ArrayList<Rute>();
+        this.ruter.add(rute);
         this.stoppesteder = stoppesteder;
         this.overganger = overganger;
         this.antallstop = stoppesteder.size();
@@ -68,6 +68,7 @@ public class Reise {
         System.out.println("Antall stop: " + getAntallstop() + "\n");
 
     }
+
 
 
 
