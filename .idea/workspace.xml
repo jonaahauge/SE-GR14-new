@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e7f753a-8470-492c-b08b-18e7da05fee5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/src/main/java/testReiseSok/TestReiseSok.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/domain/Reise.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/domain/Reise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/domain/ReiseSok.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/domain/ReiseSok.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,8 +62,9 @@
     "JUnit.TestReiseSok.executor": "Run",
     "JUnit.TestReiseSok.testReiseSokSingel.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop__backend",
+    "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/storage/src/main/java/runDB",
@@ -92,17 +89,17 @@
       <recent name="database" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestReiseSok">
     <configuration name="AdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testAdapter.*" />
+          <option name="PATTERN" value="integrasjonsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testAdapter" />
-      <option name="MAIN_CLASS_NAME" value="testAdapter.AdapterTest" />
+      <option name="PACKAGE_NAME" value="integrasjonsTest" />
+      <option name="MAIN_CLASS_NAME" value="integrasjonsTest.AdapterTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -136,8 +133,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AdapterTest" />
         <item itemvalue="JUnit.TestReiseSok" />
+        <item itemvalue="JUnit.AdapterTest" />
       </list>
     </recent_temporary>
   </component>
