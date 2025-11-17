@@ -3,6 +3,7 @@ package domain;
 public class StoppeSted {
     private String name;
 
+    public StoppeSted(){};
     public StoppeSted(String name){
         this.name = name;
     }
