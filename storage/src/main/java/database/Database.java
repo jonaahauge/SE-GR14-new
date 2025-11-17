@@ -46,7 +46,7 @@ public class Database {
     }
 
 
-    public void quitDB() throws DatabaseException{
+    public void avsluttDB() throws DatabaseException{
         try{
             connection.close();
 

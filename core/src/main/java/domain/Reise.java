@@ -1,8 +1,6 @@
 package domain;
 
 import java.util.ArrayList;
-import java.util.List;
-
 
 public class Reise {
     private ArrayList<Rute> ruter;
@@ -10,6 +8,7 @@ public class Reise {
     private ArrayList<Overgang> overganger;
     private int antallstop;
 
+    public Reise(){};
     public Reise(ArrayList<Rute> ruter, ArrayList<StoppeSted> stoppesteder, ArrayList<Overgang> overganger) {
         this.ruter = ruter;
         this.stoppesteder = stoppesteder;
@@ -18,8 +17,8 @@ public class Reise {
     }
 
     public Reise(Rute rute, ArrayList<StoppeSted> stoppesteder, ArrayList<Overgang> overganger) {
-        ruter = new ArrayList<Rute>();
-        ruter.add(rute);
+        this.ruter = new ArrayList<Rute>();
+        this.ruter.add(rute);
         this.stoppesteder = stoppesteder;
         this.overganger = overganger;
         this.antallstop = stoppesteder.size();
@@ -28,9 +27,19 @@ public class Reise {
     public ArrayList<Rute> getRuter() {
         return ruter;
     }
-    public ArrayList<StoppeSted> getStoppesteder() {return stoppesteder;}
 
+    public void setRuter(ArrayList<Rute> ruter) {
+        this.ruter = ruter;
+    }
+    public void setOverganger(ArrayList<Overgang> overganger) {
+        this.overganger = overganger;
+    }
     public ArrayList<Overgang> getOverganger(){return overganger;}
+
+    public void setStoppesteder(ArrayList<StoppeSted> stoppesteder) {
+        this.stoppesteder = stoppesteder;
+    }
+    public ArrayList<StoppeSted> getStoppesteder() {return stoppesteder;}
 
     public void addRute(Rute rute){
         ruter.add(rute);
@@ -42,6 +51,10 @@ public class Reise {
     }
 
     public void addOvergang(Overgang overgang){overganger.add(overgang);}
+
+    public void setAntallstop(int antallstop) {
+        this.antallstop = antallstop;
+    }
 
     public int getAntallstop() {return antallstop;}
 
@@ -68,6 +81,7 @@ public class Reise {
         System.out.println("Antall stop: " + getAntallstop() + "\n");
 
     }
+
 
 
 
