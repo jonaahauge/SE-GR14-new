@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e7f753a-8470-492c-b08b-18e7da05fee5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test/src/main/java/testFrontendApi/TestFrontendApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/domain/Reise.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/domain/Reise.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/domain/StoppeSted.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/domain/StoppeSted.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/java/testFrontendApi/TestFrontendApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/java/testFrontendApi/TestFrontendApi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,34 +49,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.App.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AdapterTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StoppeStedAdapterTest (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StoppeStedAdapterTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder (1).executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StoppeStedAdapterTest.testRuteAdapter.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestFrontendApi.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestFrontendApi.testGetStoppeSteder.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestReiseSok.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TestReiseSok.testReiseSokSingel.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop__backend&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/storage/src/main/java/runDB&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/test/src/main/java/org/musicas/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.App.executor": "Run",
+    "Application.Main.executor": "Run",
+    "JUnit.AdapterTest.executor": "Run",
+    "JUnit.StoppeStedAdapterTest (1).executor": "Run",
+    "JUnit.StoppeStedAdapterTest.executor": "Run",
+    "JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder (1).executor": "Run",
+    "JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder.executor": "Run",
+    "JUnit.StoppeStedAdapterTest.testRuteAdapter.executor": "Run",
+    "JUnit.TestFrontendApi.executor": "Run",
+    "JUnit.TestFrontendApi.testGetStoppeSteder.executor": "Run",
+    "JUnit.TestReiseSok.executor": "Run",
+    "JUnit.TestReiseSok.testReiseSokSingel.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "develop",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/storage/src/main/java/runDB",
+    "onboarding.tips.debug.path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/test/src/main/java/org/musicas/Main.java",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\47940\Desktop\SE Software Engineering\Github\SE-GR14\storage\src\main\java\runDB" />

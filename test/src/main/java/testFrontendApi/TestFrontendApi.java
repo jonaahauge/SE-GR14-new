@@ -41,8 +41,5 @@ public class TestFrontendApi {
 
         // Enkel sjekk av at endepunktet finnes
         response.then().assertThat().statusCode((200));
-
-        // Henter ut json objectet i endepunktet og konvertere dette til en string
-        String jsonResponse = response.then().extract().response().getBody().asString();
     }
 }
