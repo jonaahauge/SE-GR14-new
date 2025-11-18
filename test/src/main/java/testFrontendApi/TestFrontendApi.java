@@ -38,8 +38,10 @@ public class TestFrontendApi {
     @Test
     public void testGetReiser(){
         Response response = RestAssured.get("http://localhost:7000/reisesok?start=Halden&stopp=Fredrikstad");
+        Response response2 = RestAssured.get("http://localhost:7000/reisesok?start=Sarpsborg&stopp=Moss");
 
-        // Enkel sjekk av at endepunktet finnes
-        response.then().assertThat().statusCode((200));
+        // Enkel sjekk av at endepunktene finnes
+        response.then().assertThat().statusCode(200);
+        response.then().assertThat().statusCode(200);
     }
 }
