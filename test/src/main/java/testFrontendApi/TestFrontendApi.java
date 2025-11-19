@@ -28,7 +28,7 @@ public class TestFrontendApi {
             });
             Assertions.assertEquals("Moss", stoppesteder.getFirst().getName());
             Assertions.assertEquals("Rakkestad", stoppesteder.get(4).getName());
-            Assertions.assertEquals("Skjærviken", stoppesteder.getLast().getName());
+            Assertions.assertEquals("Svinesundparken", stoppesteder.getLast().getName());
 
         } catch (Exception e){
             e.printStackTrace();

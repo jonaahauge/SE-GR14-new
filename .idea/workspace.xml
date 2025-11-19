@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3e7f753a-8470-492c-b08b-18e7da05fee5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/All_inserts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/All_inserts.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/main/java/testFrontendApi/TestFrontendApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/java/testFrontendApi/TestFrontendApi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
       <recent name="database" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestFrontendApi">
     <configuration name="AdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
@@ -154,8 +153,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AdapterTest" />
         <item itemvalue="JUnit.TestFrontendApi" />
+        <item itemvalue="JUnit.AdapterTest" />
         <item itemvalue="JUnit.TestReiseSok" />
       </list>
     </recent_temporary>
