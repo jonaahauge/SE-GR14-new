@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e7f753a-8470-492c-b08b-18e7da05fee5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/test/src/main/java/testFrontendApi/TestFrontendApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/src/main/java/testFrontendApi/TestFrontendApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/All_inserts.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/DB_build.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/All_inserts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/All_inserts.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/rute_view.sql" beforeDir="false" afterPath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/rute_view.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/rute_view.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +59,7 @@
     "Application.App.executor": "Run",
     "Application.Main.executor": "Run",
     "JUnit.AdapterTest.executor": "Run",
+    "JUnit.DBTest.executor": "Run",
     "JUnit.StoppeStedAdapterTest (1).executor": "Run",
     "JUnit.StoppeStedAdapterTest.executor": "Run",
     "JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder (1).executor": "Run",
@@ -69,7 +75,7 @@
     "git-widget-placeholder": "develop",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/storage/src/main/java/runDB",
+    "last_opened_file_path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14-new/storage/src/main/resources/DatabaseScript",
     "onboarding.tips.debug.path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/test/src/main/java/org/musicas/Main.java",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
@@ -79,6 +85,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\47940\Desktop\SE Software Engineering\Github\SE-GR14-new\storage\src\main\resources\DatabaseScript" />
       <recent name="C:\Users\47940\Desktop\SE Software Engineering\Github\SE-GR14\storage\src\main\java\runDB" />
       <recent name="C:\Users\47940\Desktop\SE Software Engineering\Github\SE-GR14\storage\src\main\java\adapter" />
       <recent name="C:\Users\47940\Desktop\SE Software Engineering\Github\SE-GR14\storage\src\main\java\database" />
@@ -91,7 +98,7 @@
       <recent name="database" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestFrontendApi">
+  <component name="RunManager">
     <configuration name="AdapterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
