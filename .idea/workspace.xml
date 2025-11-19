@@ -6,11 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3e7f753a-8470-492c-b08b-18e7da05fee5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/All_inserts.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/DB_build.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/All_inserts.sql" beforeDir="false" afterPath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/All_inserts.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/rute_view.sql" beforeDir="false" afterPath="$PROJECT_DIR$/storage/src/main/resources/DatabaseScript/rute_view.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/src/main/resources/rute_view.sql" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,35 +51,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.Main.executor": "Run",
-    "JUnit.AdapterTest.executor": "Run",
-    "JUnit.DBTest.executor": "Run",
-    "JUnit.StoppeStedAdapterTest (1).executor": "Run",
-    "JUnit.StoppeStedAdapterTest.executor": "Run",
-    "JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder (1).executor": "Run",
-    "JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder.executor": "Run",
-    "JUnit.StoppeStedAdapterTest.testRuteAdapter.executor": "Run",
-    "JUnit.TestFrontendApi.executor": "Run",
-    "JUnit.TestFrontendApi.testGetStoppeSteder.executor": "Run",
-    "JUnit.TestReiseSok.executor": "Run",
-    "JUnit.TestReiseSok.testReiseSokSingel.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "develop",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14-new/storage/src/main/resources/DatabaseScript",
-    "onboarding.tips.debug.path": "C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/test/src/main/java/org/musicas/Main.java",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AdapterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.DBTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder (1).executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest.testHentAlleStoppeSteder.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StoppeStedAdapterTest.testRuteAdapter.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestFrontendApi.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestFrontendApi.testGetStoppeSteder.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestReiseSok.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestReiseSok.testReiseSokSingel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14-new/storage/src/main/resources/DatabaseScript&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/47940/Desktop/SE Software Engineering/Github/SE-GR14/test/src/main/java/org/musicas/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\47940\Desktop\SE Software Engineering\Github\SE-GR14-new\storage\src\main\resources\DatabaseScript" />
@@ -157,11 +154,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AdapterTest" />
         <item itemvalue="JUnit.TestFrontendApi" />
         <item itemvalue="JUnit.TestReiseSok" />
-        <item itemvalue="JUnit.AdapterTest" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
